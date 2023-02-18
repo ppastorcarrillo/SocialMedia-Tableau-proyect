@@ -57,4 +57,4 @@ Este proyecto forma parte del bootcamp de Ironhack.
 
 ### Linkedin
 
-![](https://www.linkedin.com/in/pedro-pastor-carrillo-b75ba21a9/)
+![Pedro Pastor](https://www.linkedin.com/in/pedro-pastor-carrillo-b75ba21a9/)
