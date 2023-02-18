@@ -1,6 +1,6 @@
 # SocialMedia-Tableau-proyect
 ***
-![](../SocialMedia-Tableau-proyect/images/social-media-1200x800.jpg)
+![](images/social-media-1200x800.jpg)
 ***
 
 
@@ -27,3 +27,27 @@ Las empresas pueden ver la información detallada sobre cada influencer, incluye
 
 
 
+### Dashboards
+
+![](images/Captura%20de%20pantalla_20230217_192431.png)
+
+
+![](images/Captura%20de%20pantalla_20230217_192507.png)
+
+![](images/Captura%20de%20pantalla_20230217_192542.png)
+
+
+
+
+### Tecnologías utilizadas
+
+- Python 
+- Pandas (libreria especializada en limpieza y análisis de datos)
+- Tableau 
+- Google Chrome
+
+### Contribuciones 
+
+Este proyecto es de código abierto y las contribuciones son bienvenidas. Si desea contribuir, por favor, envíe una solicitud de extracción en el repositorio de GitHub.
+
+Este proyecto forma parte del bootcamp de Ironhack.
