@@ -27,7 +27,7 @@ Las empresas pueden ver la información detallada sobre cada influencer, incluye
 
 ### Aquí os dejo el enlace a Tableau
 
-![Tableau](https://public.tableau.com/app/profile/pedro6026/viz/redes-sociales/principal?publish=yes)
+[Tableau](https://public.tableau.com/app/profile/pedro6026/viz/redes-sociales/principal?publish=yes)
 
 ### Dashboards
 
@@ -57,4 +57,4 @@ Este proyecto forma parte del bootcamp de Ironhack.
 
 ### Linkedin
 
-![Pedro Pastor](https://www.linkedin.com/in/pedro-pastor-carrillo-b75ba21a9/)
+[Pedro Pastor](https://www.linkedin.com/in/pedro-pastor-carrillo-b75ba21a9/)
