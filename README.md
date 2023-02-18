@@ -51,3 +51,8 @@ Las empresas pueden ver la información detallada sobre cada influencer, incluye
 Este proyecto es de código abierto y las contribuciones son bienvenidas. Si desea contribuir, por favor, envíe una solicitud de extracción en el repositorio de GitHub.
 
 Este proyecto forma parte del bootcamp de Ironhack.
+
+
+### Linkedin
+
+![](https://www.linkedin.com/in/pedro-pastor-carrillo-b75ba21a9/)
