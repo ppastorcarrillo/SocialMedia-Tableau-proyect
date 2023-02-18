@@ -25,7 +25,8 @@ Los resultados de la búsqueda se presentan en una lista de influencers clasific
 
 Las empresas pueden ver la información detallada sobre cada influencer, incluyendo su número de seguidores, su engagement rate, su tasa de respuesta y el pais donde se encuentrs la mayor parte de sus subscriptores.
 
-
+### Aquí os dejo el enlace a Tableau
+![](https://public.tableau.com/app/profile/pedro6026/viz/redes-sociales/principal?publish=yes)
 
 ### Dashboards
 
